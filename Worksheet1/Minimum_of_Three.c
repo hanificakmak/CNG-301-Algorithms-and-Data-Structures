@@ -23,8 +23,6 @@ return 0;
 
 int ThreeMinimum(int x, int y, int z){
 	
-	int min;
-	
 	if(x<y && y<z)
 		return x;
 	
@@ -37,9 +35,7 @@ int ThreeMinimum(int x, int y, int z){
 }
 
 int TwoMinimum(int x, int y){
-	
-	int min;
-	
+
 	if(x<y)
 		return x;
 		
