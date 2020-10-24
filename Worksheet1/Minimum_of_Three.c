@@ -1,3 +1,6 @@
+// In this code we are calculating the minimum of three numbers by both TwoMinimum and ThreeMinimum functions.
+// It is asked in our worksheet use TwoMinimum function to get the output, so we use this. However, both functions will give the same result. 
+
 #include<stdio.h>
 
 int TwoMinimum(int, int);
