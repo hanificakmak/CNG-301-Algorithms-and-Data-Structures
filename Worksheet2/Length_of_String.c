@@ -1,3 +1,6 @@
+// In this code we are finding the length of a string by the function we wrote.
+// It is not allowed to use "strlen" function. 
+
 #include<stdio.h>
 
 int StringLength(char []); 
