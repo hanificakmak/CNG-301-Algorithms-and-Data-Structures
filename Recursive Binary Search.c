@@ -48,7 +48,7 @@ int BinarySearch(int list[100], int first, int last, int searchKey){
 	else
     	return BinarySearch(list, mid+1, last, searchKey);
     	
-    if(first > last)
+    	if(first > last)
     	return -1;
 
 }
