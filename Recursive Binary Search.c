@@ -14,9 +14,8 @@ int main(){
 	scanf("%d", &size);
 	
 	for(int i=0; i<size; i++)
-			scanf("%d", &list[i]);
+		scanf("%d", &list[i]);
 	
-
 	
 	int first=0;
 	int last=size-1;
