@@ -24,7 +24,7 @@ int main(){
 	other.year;
 	
 	
-  //Q1 Part 
+  	//Q1 Part 
 			
 	printf("Enter your birthday: ");
 	scanf("%d/%d/%d", &myself.month, &myself.day, &myself.year);
